@@ -64,7 +64,7 @@ In this course, you will:
 
 4. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
-5. learning from mona the octacat
+5. learning from mona the octacat.
 
 <footer>
 
