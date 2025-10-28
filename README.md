@@ -64,6 +64,30 @@ In this course, you will:
 
 4. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
+## Quick Reference
+
+### How to merge
+
+Merging is covered in **Step 4** of this course. A merge combines the changes from your pull request into the main branch. Here's how to merge:
+
+1. **Navigate to your pull request** - Go to the Pull requests tab and select your pull request
+2. **Wait for any checks to complete (if configured)** - The merge button will be green when ready
+3. **Click "Merge pull request"** - This combines your changes with the main branch
+4. **Click "Confirm merge"** - Finalizes the merge
+5. **Delete the branch** (optional) - Click "Delete branch" to clean up
+
+For detailed instructions, see [Step 4: Merge your pull request](.github/steps/4-merge-your-pull-request.md).
+
+**Learn more about merging:**
+- [About merges](https://docs.github.com/en/get-started/quickstart/github-glossary#merge) - GitHub Glossary
+- [Merging a pull request](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/incorporating-changes-from-a-pull-request/merging-a-pull-request) - GitHub Docs
+
+### Other Quick Links
+
+- **How to create a branch** - See [Step 1](.github/steps/1-create-a-branch.md)
+- **How to commit a file** - See [Step 2](.github/steps/2-commit-a-file.md)
+- **How to open a pull request** - See [Step 3](.github/steps/3-open-a-pull-request.md)
+
 <footer>
 
 <!--
