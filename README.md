@@ -66,12 +66,12 @@ In this course, you will:
 
 ## Quick Reference
 
-### How to use merge
+### How to merge
 
 Merging is covered in **Step 4** of this course. A merge combines the changes from your pull request into the main branch. Here's how to merge:
 
 1. **Navigate to your pull request** - Go to the Pull requests tab and select your pull request
-2. **Wait for checks to complete** - The merge button will be green when ready
+2. **Wait for any checks to complete (if configured)** - The merge button will be green when ready
 3. **Click "Merge pull request"** - This combines your changes with the main branch
 4. **Click "Confirm merge"** - Finalizes the merge
 5. **Delete the branch** (optional) - Click "Delete branch" to clean up
