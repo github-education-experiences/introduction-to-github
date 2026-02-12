@@ -38,8 +38,7 @@ In this course, you will:
 
 ### How to start this course
 
-1. Scroll to the top of the page and click the down arrow next to the Fork button. Then click 'Create a new fork' to fork this repository.
-
+1. Scroll to the top of the page and click the down arrow next to the Fork button. Then click 'Create a new fork' to fork.
 2. Right-click **Start course** and open the link in a new tab.
    
 <!-- For start course, run in JavaScript:
