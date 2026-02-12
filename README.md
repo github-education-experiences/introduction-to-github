@@ -21,7 +21,7 @@ _Get started using GitHub in less than an hour._
 
 ## Welcome
 
-People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or building a new game, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
+People use GitHub to build some of the most advanced technologies in the world. Whether you’re visualizing data or buildiame, there’s a whole community and set of tools on GitHub that can help you do it even better. GitHub Skills’ “Introduction to GitHub” course guides you through everything you need to start contributing in less than an hour.
 
 - **Who is this for**: New developers, new GitHub users, and students.
 - **What you'll learn**: We'll introduce repositories, branches, commits, and pull requests.
@@ -38,8 +38,7 @@ In this course, you will:
 
 ### How to start this course
 
-1. Scroll to the top of the page and click the down arrow next to the Fork button. Then click 'Create a new fork' to fork this repository.
-
+1. Scroll to the top of the page and click the down arrow next to the Fork button. Then click 'Create a new fork' to fork.
 2. Right-click **Start course** and open the link in a new tab.
    
 <!-- For start course, run in JavaScript:
