@@ -17,7 +17,7 @@ _Get started using GitHub in less than an hour._
   <<< Author notes: Course start >>>
   Include start button, a note about Actions minutes,
   and tell the learner why they should take the course.
--->
+--> أتعلم GitHub
 
 ## Welcome
 
