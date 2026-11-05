@@ -1,0 +1,8 @@
+The following are exercises and questions are meant to help you become more comfortable with a text editor that is built into the command line. 
+You can choose either vim or emacs or nano. While the answers to the questions themselves are relatively easy to find by simply looking them up, the real learning will come from you actually practicing these commands yourself. 
+While we won’t be able to know whether you’ve really been practicing, this is not for our benefit, it’s for yours. 
+We also recommend getting even more practice by writing the answers to your task1.txt and task2.sh, task3.sh files using this editor. 
+The following are exercises and questions are meant to help you become more comfortable with a text editor that is built into the command line. 
+You can choose either vim or emacs or nano. While the answers to the questions themselves are relatively easy to find by simply looking them up, the real learning will come from you actually practicing these commands yourself. 
+While we won’t be able to know whether you’ve really been practicing, this is not for our benefit, it’s for yours. 
+We also recommend getting even more practice by writing the answers to your task1.txt and task2.sh, task3.sh files using this editor. 
